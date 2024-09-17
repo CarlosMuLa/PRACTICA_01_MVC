@@ -7,3 +7,7 @@ Para ver la pracitca solo hay que descargar los archivos y ejecutar live server 
 ```js
 console.log("Resta:", res);
 ```
+### Con participaciones de:
+- CarMuLa: Carlos Muñiz Lara
+- JacbGit: Jaime Contreras Barragan
+- xiluisx: Luis Velasco
